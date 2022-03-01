@@ -2,8 +2,8 @@
   "version": "1.0",
   "plugins": {
     "example-codegen": {
-      "service": "org.example.weather.simple#Weather",
-      "module": "weather",
+      "service": "com.amazonaws.s3#GetObject",
+      "module": "s3",
       "moduleVersion": "0.0.1"
     }
   }
